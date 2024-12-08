@@ -1,0 +1,60 @@
+header {
+    background-color: crimson;
+    padding: 12px;
+    position: sticky;
+    top: 0;
+padding: 10px;
+}
+
+.nav1, .nav2, .nav3{
+    display: inline-block;
+    color: white;
+    font-size: 40px;
+
+}
+.nav1{
+    margin-left: 200px;
+}
+.nav2{
+    margin-left: 400px;
+}
+.nav3{
+    margin-left: 400px;
+}
+
+
+.main {
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+.item-1,
+.item-2,
+.item-3,
+.item-4 {
+    /* border: 10px solid black; */
+    height: 650px;
+    width: 300px;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+img {
+    width: 100%;
+    vertical-align: top;
+}
+
+h1 {
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Segoe UI';
+}
+
+p {
+    text-align: center;
+}
